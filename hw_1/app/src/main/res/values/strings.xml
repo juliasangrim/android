@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">hw_1</string>
+    <string name="text_view">text_view</string>
+    <string name="edit_text">edit_text</string>
+    <string name="button_text">button_text</string>
+    <string name="checkbox_text">checkbox_text</string>
+    <string name="radio_btn_first_opt">radio_btn_first_opt</string>
+    <string name="radio_btn_second_opt">radio_btn_second_opt</string>
+    <string name="switch_text">switch_text</string>
+    <string name="switch_on_text">switch_on_text</string>
+    <string name="switch_off_text">switch_off_text</string>
+    <string-array name="list">
+        <item>item!</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+</resources>
